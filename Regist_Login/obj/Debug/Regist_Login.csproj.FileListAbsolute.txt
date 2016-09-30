@@ -1,0 +1,5 @@
+c:\users\antreas\documents\visual studio 2012\Projects\Regist_Login\bin\Regist_Login.dll
+c:\users\antreas\documents\visual studio 2012\Projects\Regist_Login\bin\Regist_Login.pdb
+c:\users\antreas\documents\visual studio 2012\Projects\Regist_Login\obj\Debug\Regist_Login.csprojResolveAssemblyReference.cache
+c:\users\antreas\documents\visual studio 2012\Projects\Regist_Login\obj\Debug\Regist_Login.dll
+c:\users\antreas\documents\visual studio 2012\Projects\Regist_Login\obj\Debug\Regist_Login.pdb
